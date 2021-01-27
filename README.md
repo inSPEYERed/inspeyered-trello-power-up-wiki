@@ -1,2 +1,3 @@
-# inspeyered-trello-power-up-wiki
-Wiki for the private inSPEYERed Trello Power-Up
+💻 Den Code für das Power-Up findest du hier nicht, der befindet sich in einem privaten GitHub-Repo.
+
+Allerdings findets du [hier](https://github.com/inSPEYERed/inspeyered-trello-power-up-wiki/wiki) das öffentliche Wiki zum Power-Up 🤗
